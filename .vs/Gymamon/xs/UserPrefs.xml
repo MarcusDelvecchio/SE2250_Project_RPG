@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{934D1012-8CFC-84F6-9A23-E01564489020}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/BrokenVector/LowPolyShaders/README.txt">
+    <Files>
+      <File FileName="Assets/BrokenVector/LowPolyShaders/README.txt" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Gymamon" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="BrokenVector" expanded="True">
+                <Node name="LowPolyShaders" expanded="True">
+                  <Node name="README.txt" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Gymamon" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b7712e4d-1651-4517-91e9-7b317e4ace27" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
